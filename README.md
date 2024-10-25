@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-
 👀 I am interested in web application development, software, especially Fullstack development.
 
 🌱 I'm currently learning Node.js and Express.js to build full-stack web applications.
@@ -27,18 +26,6 @@
 ⚡ Fun Fact: Besides studying, I also love experiencing the beautiful scenery of the ocean waves at sunset.
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:nguyenanhtuan.profile@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ngg-anhtuan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="http://nguyenanhtuan.unaux.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
  <hr/>
  
@@ -51,7 +38,12 @@
 
 <br/>
 <hr/>
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NguyenAnhTuann/NguyenAnhTuann/output/github-contribution-grid-snake.svg" />  
+  <br/><br/><br/>
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
