@@ -8,7 +8,7 @@
 
 <br/>
 
-<div>
+<div align="center">
     
 👀 I am interested in web application development, software, especially Fullstack development.
 
