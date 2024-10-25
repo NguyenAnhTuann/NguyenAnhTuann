@@ -1,6 +1,6 @@
 👋 Hi, I'm @NguyenAnhTuann
 
-👀 I'm interested in **web development**, especially **front-end development** and **JavaScript frameworks** like React. I also enjoy learning about **UI/UX design** to create the best user experience.
+👀 I am interested in **web application development**, **software**, especially **Fullstack** development.
 
 🌱 I'm currently learning **Node.js** and **Express.js** to build full-stack web applications.
 
