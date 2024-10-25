@@ -28,7 +28,7 @@
 
  </div>
 
- <hr/>
+ <br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -38,8 +38,6 @@
 </div>
 
 <br/>
-<hr/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -51,8 +49,6 @@
 </div>
 
 <br/><br/>
-
-<hr/>
 
 <br/>
 
