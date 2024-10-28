@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NguyenAnhTuann.NguyenAnhTuann" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=NguyenAnhTuann.NguyenAnhTuann" />
 
-👋 Hi There I'm Nguyen Anh Tuan, I'm living and working in Viet Nam 🇻🇳
+👋 Hi There I'm @NguyenAnhTuann, I'm living and working in Viet Nam 🇻🇳
     
 👀 I am interested in web application development, software, especially Fullstack development.
 
