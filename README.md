@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NguyenAnhTuann.NguyenAnhTuann" />
-<br>
 
 👋 Hi There I'm @NguyenAnhTuann, I'm living and working in Viet Nam 🇻🇳
     
