@@ -17,3 +17,14 @@
 😄 Pronouns: He/him
 
 ⚡ Fun Fact: Besides studying, I also love experiencing the beautiful scenery of the ocean waves at sunset.
+
+**:point_right::point_left: &nbsp;Interests:**
+<div align="center">
+  <div>
+    <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif">
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/RQ2TvSVgqyKKmKJSXn/giphy.gif">
+  </div>
+</div>
+<br/>
