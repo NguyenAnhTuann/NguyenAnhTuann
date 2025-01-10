@@ -23,8 +23,5 @@
   <div>
     <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif">
   </div>
-  <div>
-    <img src="https://media.giphy.com/media/RQ2TvSVgqyKKmKJSXn/giphy.gif">
-  </div>
 </div>
 <br/>
