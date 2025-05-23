@@ -16,7 +16,7 @@
 
 **Linkedin: https://linkedin.com/in/ngg-anhtuan**
 
-**IG: https://www.instagram.com/nguyenanhtuan___].**
+**IG: https://www.instagram.com/nguyenanhtuan___**
 
 📞 Phone/Zalo: **0869094929**
 
