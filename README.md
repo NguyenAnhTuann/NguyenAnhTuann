@@ -12,14 +12,6 @@
 
 **FB: https://www.facebook.com/NguyenAnhTuxn**
 
-**X: https://x.com/nguyenanhtuan__**
-
-**Linkedin: https://linkedin.com/in/ngg-anhtuan**
-
-**IG: https://www.instagram.com/nguyenanhtuan___**
-
-📞 Phone/Zalo: **0869094929**
-
 🌐 Website: **http://www.anhtuannguyen.id.vn**
 
 😄 Pronouns: He/him
